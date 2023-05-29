@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UGKenaUjw9qk//iut55qXfyS9Bgj4jhpEHdlJNr32xBf/fW63a+N9SE0p41JX2WX5UUGebwDD9tFxpL110yd6A==",
+  "success": true,
+  "projectFilePath": "G:\\Mi unidad\\DAM\\PSP\\PSP03\\Tarea Evaluativa 01\\PiedraPapelTijera\\PiedraPapelTijera\\PiedraPapelTijera_Cliente\\PiedraPapelTijera_Cliente.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexp\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.15\\microsoft.netcore.app.runtime.win-x64.6.0.15.nupkg.sha512",
+    "C:\\Users\\alexp\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.15\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.15.nupkg.sha512",
+    "C:\\Users\\alexp\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.15\\microsoft.aspnetcore.app.runtime.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

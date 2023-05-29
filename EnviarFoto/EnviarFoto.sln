@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnviarFoto_Servidor", "EnviarFoto_Servidor\EnviarFoto_Servidor.csproj", "{D6D6E5A0-1464-4592-B013-8812E48E95EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnviarFoto_Cliente", "EnviarFoto_Cliente\EnviarFoto_Cliente.csproj", "{F513B138-E938-450C-BDFA-682FE6BDA46A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6D6E5A0-1464-4592-B013-8812E48E95EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D6E5A0-1464-4592-B013-8812E48E95EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D6E5A0-1464-4592-B013-8812E48E95EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D6E5A0-1464-4592-B013-8812E48E95EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F513B138-E938-450C-BDFA-682FE6BDA46A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F513B138-E938-450C-BDFA-682FE6BDA46A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F513B138-E938-450C-BDFA-682FE6BDA46A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F513B138-E938-450C-BDFA-682FE6BDA46A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31377B99-B93A-481C-AD67-886EBD9ED144}
+	EndGlobalSection
+EndGlobal
